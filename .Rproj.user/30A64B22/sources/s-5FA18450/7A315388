@@ -1,0 +1,27 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596219182226.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7A315388",
+    "lastKnownWriteTime" : 1596226324,
+    "last_content_update" : 1596226324831,
+    "path" : "D:/Projects/Exploratory-Data-Analysis-Week-4/Exploratory-Data-Analysis-Week-4.R",
+    "project_path" : "Exploratory-Data-Analysis-Week-4.R",
+    "properties" : {
+        "cursorPosition" : "24,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

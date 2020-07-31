@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1596225964038.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "64CFF5A1",
+    "lastKnownWriteTime" : 1596226057,
+    "last_content_update" : 1596226057939,
+    "path" : "D:/Projects/Exploratory-Data-Analysis-Week-4/plot4.R",
+    "project_path" : "plot4.R",
+    "properties" : {
+        "cursorPosition" : "23,66",
+        "scrollLine" : "0",
+        "tempName" : "Untitled2"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
